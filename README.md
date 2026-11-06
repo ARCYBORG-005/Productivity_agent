@@ -181,4 +181,4 @@ python cli.py init-db
 
 ## License
 
-No license file is currently included. Add a license before allowing others to reuse, modify, or distribute this project.
+No license file is currently included. 
