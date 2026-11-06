@@ -1,0 +1,16 @@
+.env
+__pycache__/
+tests/
+venv/
+*txt
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.yml
+*txt
+*json
+*.env.example
+tests/
+*.md
+
